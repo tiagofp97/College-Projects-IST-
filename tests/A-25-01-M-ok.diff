@@ -1,0 +1,66 @@
+*** tests/A-25-01-M-ok.out	2024-10-19 15:14:49.026061200 +0100
+--- tests/A-25-01-M-ok.outhyp	2024-10-28 22:59:25.796939300 +0000
+***************
+*** 15,26 ****
+--- 15,28 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Consultas
+  1 - Animais de um habitat
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro
+***************
+*** 69,80 ****
+--- 71,84 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Consultas
+  1 - Animais de um habitat
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro
+***************
+*** 93,98 ****
+--- 97,103 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro
+***************
+*** 136,141 ****
+--- 141,147 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: REGISTO-VACINA|Vac2|Vet2|E2
+  Consultas
+***************
+*** 143,148 ****
+--- 149,155 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Número inválido!
+  Escolha uma opção: Menu Principal

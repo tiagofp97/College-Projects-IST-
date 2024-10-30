@@ -1,0 +1,49 @@
+*** tests/A-10-04-M-ok.out	2024-10-18 19:27:35.654599300 +0100
+--- tests/A-10-04-M-ok.outhyp	2024-10-28 22:59:05.212120900 +0000
+***************
+*** 49,54 ****
+--- 49,55 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Identificador único do habitat: ANIMAL|A3|Macaco 1|C2|VOID|AR1
+  Consultas
+***************
+*** 56,61 ****
+--- 57,63 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Identificador único do habitat: ANIMAL|A1|Pinguim 1|C1|VOID|AR2
+  ANIMAL|A2|Pinguim 2|C1|VOID|AR2
+***************
+*** 65,70 ****
+--- 67,73 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro
+***************
+*** 117,128 ****
+--- 120,133 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Identificador único do habitat: Consultas
+  1 - Animais de um habitat
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro

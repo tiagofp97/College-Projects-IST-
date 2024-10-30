@@ -1,0 +1,29 @@
+*** tests/A-23-01-M-ok.out	2024-10-18 19:27:35.603085300 +0100
+--- tests/A-23-01-M-ok.outhyp	2024-10-28 22:59:24.260363200 +0000
+***************
+*** 15,20 ****
+--- 15,21 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Identificador único do animal: Actos médicos num animal: Operação inválida: O animal 'A1' não existe.
+  Consultas
+***************
+*** 22,33 ****
+--- 23,36 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Identificador único do animal: Consultas
+  1 - Animais de um habitat
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro

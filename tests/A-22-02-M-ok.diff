@@ -1,0 +1,29 @@
+*** tests/A-22-02-M-ok.out	2024-10-19 17:48:37.409741000 +0100
+--- tests/A-22-02-M-ok.outhyp	2024-10-28 22:59:23.777182800 +0000
+***************
+*** 15,26 ****
+--- 15,28 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Identificador único do habitat: Consultas
+  1 - Animais de um habitat
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Identificador único do habitat: ANIMAL|A1|Nome 1|E1|VOID|H1
+  Consultas
+***************
+*** 28,33 ****
+--- 30,36 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro

@@ -1,0 +1,22 @@
+*** tests/A-24-03-M-ok.out	2024-10-18 19:27:35.601076000 +0100
+--- tests/A-24-03-M-ok.outhyp	2024-10-28 22:59:25.235876200 +0000
+***************
+*** 39,44 ****
+--- 39,45 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Identificador único do funcionário: REGISTO-VACINA|Vac3|Vet1|E1
+  Consultas
+***************
+*** 46,51 ****
+--- 47,53 ----
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
++ 5 - Ver empregado com mais responsabilidades que X
+  0 - Sair
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro

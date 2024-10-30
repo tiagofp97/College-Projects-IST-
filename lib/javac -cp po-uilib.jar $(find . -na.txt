@@ -1,0 +1,13 @@
+javac -cp po-uilib.jar $(find . -name "*.java")
+java -cp .:po-uilib.jar hva.app.App
+find . -name "*.class" -delete
+
+glpat-nEPkQihz6D-xc9uWuA2d
+TIAGO BAPTISTA FERREIRA PINTO
+
+cd .. hva
+git pull origin master
+git add .
+git commit -m "texto"
+git push origin master
+

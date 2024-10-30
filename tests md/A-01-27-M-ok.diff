@@ -1,0 +1,29 @@
+*** tests/A-01-27-M-ok.out	2024-10-02 10:56:23.618056300 +0100
+--- tests/A-01-27-M-ok.outhyp	2024-10-25 18:59:52.114300000 +0100
+***************
+*** 10,16 ****
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
+! Escolha uma opção: Guardar antes de fechar? Ficheiro sem nome. Guardar ficheiro como: Ficheiro a abrir: Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+  3 - Guardar ficheiro
+--- 10,17 ----
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Guardar antes de fechar? Abrir ficheiro: Operação inválida: Problema ao abrir ficheiro: Erro a processar ficheiro s
+! Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+  3 - Guardar ficheiro
+***************
+*** 22,25 ****
+--- 23,27 ----
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
++ Escolha uma opção: Número inválido!
+  Escolha uma opção: 
+\ No newline at end of file
